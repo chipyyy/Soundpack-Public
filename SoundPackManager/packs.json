@@ -1,0 +1,39 @@
+{
+    "packs": [
+        {
+            "name": "LachieSP1",
+            "preview": "https://www.dropbox.com/scl/fi/qzxttb8a8oa3wtyd8stn3/lachiessp1.mp3?rlkey=g4lq6c9otuxrebsmaemzzka17&st=xiq2qw8f&dl=1",
+            "resident_download": "https://www.dropbox.com/scl/fi/eube1f3h1srzjkcxl20gt/RESIDENT.rpf?rlkey=0algzmhtraolpipb9ht3pdo45&st=srewi4fe&dl=1",
+            "weapons_download": "https://www.dropbox.com/scl/fi/7x7blu3fq5oy9wr9kuj4m/WEAPONS_PLAYER.rpf?rlkey=b3b3yphmebu6r5u1m5c032j9t&st=2pex38fl&dl=1"
+        },
+        {
+            "name": "LachieSP2",
+            "preview": "https://drive.google.com/uc?export=download&id=1JUXm8EhzQZ_t3bCLnPWfi-4mkSCnpqU_",
+            "resident_download": "https://www.dropbox.com/scl/fi/2vzp6jfwwht8lnzl5qo4p/RESIDENT.rpf?rlkey=4xp14hhrxys5pcz4o3rmywk2x&st=rmh25ft4&dl=1",
+            "weapons_download": "https://www.dropbox.com/scl/fi/amek2vnzb6iu7j8il2rxw/WEAPONS_PLAYER.rpf?rlkey=0iwk20fli4617qy4863i96a1n&st=ixl302sn&dl=1"
+        },
+        {
+            "name": "LachieSP3",
+            "preview": "https://drive.google.com/uc?export=download&id=1Ap7LFy4WcUVKV-G5nuLSwxnQRlnSiXaP",
+            "weapons_download": "https://www.dropbox.com/scl/fi/l5t4tzdu9ivub7qguiwnp/WEAPONS_PLAYER.rpf?rlkey=k8f2k3jrtf9puv5kjl9x4sjdc&st=e12mnqye&dl=1"
+        },
+        {
+            "name": "PlutoSp2",
+            "preview": "https://drive.google.com/uc?export=download&id=1C86yUI8iDhsQ_ROXHo4mBeRT1d9v1fWN",
+            "resident_download": "https://www.dropbox.com/scl/fi/cexwu4wi8m7b2xrzz8cu3/RESIDENT.rpf?rlkey=2yswzr35e9008zwfqx0ze53sa&st=5tn0iu5z&dl=1",
+            "weapons_download": "https://www.dropbox.com/scl/fi/ed88dzi6kqv25reslperw/WEAPONS_PLAYER.rpf?rlkey=d2xyvdxrb6ok8rxcre0lf3sm8&st=gvsabf9s&dl=1"
+        },
+        {
+            "name": "PlutoSp3",
+            "preview": "https://www.dropbox.com/scl/fi/5gx64e65tnb95j174lwwx/plutosp3.mp3?rlkey=rzydqtd248dqf5gl1joutkhn1&st=uk5x3ro9&dl=1",
+            "resident_download": "https://www.dropbox.com/scl/fi/qjake9td7jyrlguqd05wz/RESIDENT.rpf?rlkey=iuu1r0e5atswyv9ezjso50qh2&st=l8b5ml2h&dl=1",
+            "weapons_download": "https://www.dropbox.com/scl/fi/p8kb377v9qtpue15t10cb/WEAPONS_PLAYER.rpf?rlkey=0f7m4gpxe3z31m64p1b2883w9&st=cozu5h3t&dl=1"
+        },
+        {
+            "name": "Gregory",
+            "preview": "https://www.dropbox.com/scl/fi/n2sminbz31orim9883hmy/gregory.mp3?rlkey=13d4p7937f8a9q4myypz2i13s&st=cm8mwmqw&dl=1",
+            "resident_download": "https://www.dropbox.com/scl/fi/ur57czdzwx5luiw318x0j/RESIDENT.rpf?rlkey=e156h18yxlk0vv39j98lesdo6&st=4ass8k1y&dl=1",
+            "weapons_download": "https://www.dropbox.com/scl/fi/k2x9c1m8or97m77dy7jqj/WEAPONS_PLAYER.rpf?rlkey=vbpdzccr3y4uuxzbgiis4ip0n&st=pibibt4v&dl=1"
+        }
+    ]
+}
