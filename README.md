@@ -6,7 +6,7 @@ It allows you to effortlessly **switch between different sound packs, back up yo
 
 ---
 
-## :tools: Features  
+## :tool: Features  
 
 ### :white_check_mark: License & Authentication  
 - When you **first open the app**, you will be **prompted to enter a license key**.  
