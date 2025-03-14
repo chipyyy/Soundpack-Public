@@ -67,13 +67,6 @@ It allows you to effortlessly **switch between different sound packs, back up yo
 
 ---
 
-### 🎨 User Interface Enhancements  
-- **Tooltips** have been added when hovering over the **sound pack list** (`Right-click for more options!`).  
-- **Category filtering UI** allows quick organization and switching of sound packs.  
-- **Progress bar for downloads** prevents accidental actions before completion.  
-
----
-
 ### 📜 How to Use the App  
 
 1️⃣ **Open the app** and enter your **license key** (locked to your HWID).  
