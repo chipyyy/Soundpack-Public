@@ -6,6 +6,13 @@ It allows you to effortlessly **switch between different sound packs, back up yo
 
 ---
 
+## 🔒 VirusTotal Scan Result
+
+🔗 [VirusTotal Report](https://www.virustotal.com/gui/file/1cd0c2d44ce4a0b2a7596a8bc8e5e9ee65c65ddb10318ee0ccc9984bdda71f62?nocache=1)
+
+📌 **Note:** Some antivirus programs use heuristics and may incorrectly flag safe software. This is a **false positive**. If you're unsure, feel free to compile from source!
+---
+
 ## 🔹 Features  
 
 ### ✅ License & Authentication  
